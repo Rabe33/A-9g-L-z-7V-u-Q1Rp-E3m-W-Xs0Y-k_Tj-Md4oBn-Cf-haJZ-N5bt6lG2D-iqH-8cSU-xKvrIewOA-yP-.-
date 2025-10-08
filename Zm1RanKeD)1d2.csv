@@ -1,1 +1,6 @@
-
+meta_version,1.7
+hwid,username,expire_date
+de0aa74b7ed14659e92300b5f95943ce5a523dc57cd33ad171e6f289fad45b44,Eslam Rabea,2026-12-31
+def456abc789def456abc789def456abc789def456abc789def456abc789def4,user2,lifetime
+111222333444555666777888999aaabbbcccdddeeefff000111222333444555,user3,2024-01-01
+bad999hex888bad999hex888bad999hex888bad999hex888bad999hex888bad9,hacker,banned
